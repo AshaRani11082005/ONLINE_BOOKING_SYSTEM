@@ -1,6 +1,5 @@
 # Ticketing System
 
- Create a branch file by forking and then code on that rather than directly pushing code on the main branch and then push your updates when done.(Also use chatgpt if any confusion)
 
 ## Overview
 
